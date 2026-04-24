@@ -9,5 +9,5 @@ int main() {
   printf("%zu %zu\n", sizeof(s1), strlen(s1));
   printf("%zu %zu\n", sizeof(s2), strlen(s2));
  printf("%zu %zu\n", sizeof(s3), strlen(s3));
-  return 0
+  return 0;
   }

@@ -9,5 +9,5 @@ int main() {
   printf("%s\n", s2);
   printf("%s\n", s3);
 
-  return 0
+  return 0;
   }
